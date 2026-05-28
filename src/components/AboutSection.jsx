@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import SectionTitle from "./SectionTitle";
 
 export default function AboutSection() {
   return (
@@ -10,22 +11,12 @@ export default function AboutSection() {
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
         >
-          {/* Section Title */}
-          <div className="mb-8">
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-3">
-              About Me
-            </h2>
-            <div className="flex items-center gap-2">
-              <div className="w-12 h-1 bg-white rounded-full"></div>
-              <div className="w-2 h-2 bg-white rounded-full"></div>
-            </div>
-          </div>
+          <SectionTitle>About Me</SectionTitle>
 
-          {/* Bio */}
           <p className="text-xl md:text-2xl text-zinc-400 leading-relaxed max-w-3xl">
-            I am a passionate Full Stack Developer with experience in building
-            modern web applications. I love creating clean, user-friendly
-            interfaces and solving real-world problems through code.
+            I am a Senior UX/UI Designer with over 15 years of experience in{" "}
+            <span className="text-white font-medium">Envato</span> market. I have
+            worked with large companies & challenges throughout my career.
           </p>
         </motion.div>
       </div>

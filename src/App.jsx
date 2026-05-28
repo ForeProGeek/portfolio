@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import SkillsRibbon from "./components/SkillsRibbon";
 import AboutSection from "./components/AboutSection";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
       <Hero />
       <SkillsRibbon />
       <AboutSection />
-      {/* Add more sections here: Portfolio, Services, Testimonial, Blog, Contact */}
+      <Footer />
     </div>
   );
 }
