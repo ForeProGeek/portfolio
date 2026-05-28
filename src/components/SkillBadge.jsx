@@ -1,14 +1,13 @@
 import { motion } from "framer-motion";
-import { FaWordpress, FaFigma, FaHtml5 } from "react-icons/fa";
-import { FaPenNib, FaWandMagicSparkles } from "react-icons/fa6";
-import { SiCanva } from "react-icons/si";
+import { FaReact, FaJs, FaNode, FaFigma, FaHtml5 } from "react-icons/fa";
+import { FaPenNib } from "react-icons/fa6";
 
 const iconComponents = {
-  FaWordpress,
+  FaReact,
+  FaJs,
+  FaNode,
   FaPenNib,
   FaFigma,
-  FaWandMagicSparkles,
-  SiCanva,
   FaHtml5,
 };
 

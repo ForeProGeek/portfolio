@@ -11,7 +11,7 @@ export default function Hero() {
       {/* Background Watermark */}
       <div className="absolute top-[55%] left-0 -translate-y-1/2 w-full pointer-events-none select-none z-0">
         <h2 className="text-stroke text-[60px] sm:text-[80px] md:text-[120px] lg:text-[160px] font-extrabold tracking-tighter whitespace-nowrap opacity-60">
-          UI UX DESIGNER
+          FULL STACK DEV
         </h2>
       </div>
 
@@ -26,7 +26,7 @@ export default function Hero() {
           >
             <img
               src="/profile.png"
-              alt="Cameron Williamson"
+              alt="Your Name"
               className="w-full max-w-[320px] md:max-w-[400px] drop-shadow-2xl object-contain"
             />
           </motion.div>
@@ -40,12 +40,13 @@ export default function Hero() {
           >
             <p className="text-zinc-400 text-lg mb-2">Hi there! 👋 I&apos;m</p>
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 tracking-tight">
-              Cameron Williamson
+              Your Name
             </h1>
             <p className="text-zinc-400 text-base md:text-lg leading-relaxed mb-8 max-w-lg">
-              I believe that collaboration and creativity are the essence
-              of progress. And I am dedicated to bringing a fresh perspective
-              to every project undertaken.
+              A passionate <span className="text-white font-medium">Full Stack Developer</span> who builds
+              scalable web applications with clean code and intuitive user interfaces.
+              I blend software engineering with thoughtful UI/UX design to create
+              products that are both powerful and delightful to use.
             </p>
 
             {/* Buttons */}

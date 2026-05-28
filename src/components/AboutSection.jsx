@@ -14,9 +14,11 @@ export default function AboutSection() {
           <SectionTitle>About Me</SectionTitle>
 
           <p className="text-xl md:text-2xl text-zinc-400 leading-relaxed max-w-3xl">
-            I am a Senior UX/UI Designer with over 15 years of experience in{" "}
-            <span className="text-white font-medium">Envato</span> market. I have
-            worked with large companies & challenges throughout my career.
+            I am a <span className="text-white font-medium">Full Stack Developer</span> with a strong foundation in
+            UI/UX design. I build modern web applications using{" "}
+            <span className="text-white font-medium">React, Node.js, and Firebase</span>,
+            while ensuring every interface is intuitive and visually polished.
+            I believe great software is where robust engineering meets thoughtful design.
           </p>
         </motion.div>
       </div>

@@ -1,8 +1,8 @@
 export const skills = [
-  { name: "WordPress", percent: 85, color: "#21759b", icon: "FaWordpress" },
-  { name: "Adobe XD", percent: 90, color: "#FF61F6", icon: "FaPenNib" },
+  { name: "React", percent: 90, color: "#61DAFB", icon: "FaReact" },
+  { name: "JavaScript", percent: 85, color: "#F7DF1E", icon: "FaJs" },
+  { name: "Node.js", percent: 80, color: "#339933", icon: "FaNode" },
+  { name: "UI/UX Design", percent: 85, color: "#FF61F6", icon: "FaPenNib" },
   { name: "Figma", percent: 80, color: "#F24E1E", icon: "FaFigma" },
-  { name: "Photoshop", percent: 75, color: "#31A8FF", icon: "FaWandMagicSparkles" },
-  { name: "Canva", percent: 90, color: "#00C4CC", icon: "SiCanva" },
-  { name: "HTML5", percent: 95, color: "#E34F26", icon: "FaHtml5" },
+  { name: "HTML5/CSS3", percent: 95, color: "#E34F26", icon: "FaHtml5" },
 ];
