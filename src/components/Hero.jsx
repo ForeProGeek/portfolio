@@ -40,13 +40,12 @@ export default function Hero() {
           >
             <p className="text-zinc-400 text-lg mb-2">Hi there! 👋 I&apos;m</p>
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 tracking-tight">
-              Your Name
+              Agboola Joshua
             </h1>
             <p className="text-zinc-400 text-base md:text-lg leading-relaxed mb-8 max-w-lg">
               A passionate <span className="text-white font-medium">Full Stack Developer</span> who builds
               scalable web applications with clean code and intuitive user interfaces.
-              I blend software engineering with thoughtful UI/UX design to create
-              products that are both powerful and delightful to use.
+              I blend software engineering with thoughtful UI/UX design to create products that are both powerful and delightful to use.
             </p>
 
             {/* Buttons */}
@@ -66,7 +65,6 @@ export default function Hero() {
               </a>
             </div>
 
-            {/* Social Icons */}
             <SocialIcons />
           </motion.div>
         </div>
