@@ -4,7 +4,6 @@ import { socialLinks } from "../data/socialLinks";
 const iconComponents = {
   FaFacebookF,
   FaXTwitter,
-  FaBehance,
   FaDribbble,
 };
 

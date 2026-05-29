@@ -8,7 +8,7 @@ export default function Footer() {
           &copy; {currentYear} Agboola Joshua. All rights reserved.
         </p>
         <p className="text-zinc-600 text-sm">
-          Built with React, Vite & Tailwind CSS.
+          Built with React, Vite & Tailwind CSS. By ForePro_Geek.
         </p>
       </div>
     </footer>

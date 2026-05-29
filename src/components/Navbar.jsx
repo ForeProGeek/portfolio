@@ -21,7 +21,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-6 md:px-12 h-20 flex items-center justify-between">
         {/* Logo */}
         <a href="#home" className="text-2xl font-bold text-white">
-          Pertest
+          ForePro_Geek
         </a>
 
         {/* Desktop Links */}

@@ -38,7 +38,7 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="order-1 lg:order-2"
           >
-            <p className="text-zinc-400 text-lg mb-2">Hi there! 👋 I&apos;m</p>
+            <p className="text-zinc-400 text-lg mb-2">Hey there!👋 I&apos;m</p>
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 tracking-tight">
               Agboola Joshua
             </h1>
