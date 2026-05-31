@@ -25,7 +25,7 @@ export default function Hero() {
             className="relative order-2 lg:order-1 flex justify-center lg:justify-start"
           >
             <img
-              src="/profile.png"
+              src="./profile.png"
               alt="Your Name"
               className="w-full max-w-[320px] md:max-w-[400px] drop-shadow-2xl object-contain"
             />
@@ -57,7 +57,7 @@ export default function Hero() {
                 Let&apos;s Talk <FaArrowRight size={14} />
               </a>
               <a
-                href="/resume.pdf"
+                href="./resume.pdf"
                 download
                 className="inline-flex items-center gap-2 px-6 py-3 border border-zinc-700 text-white font-semibold rounded-full hover:bg-zinc-800 transition-colors text-sm"
               >
@@ -72,3 +72,4 @@ export default function Hero() {
     </section>
   );
 }
+

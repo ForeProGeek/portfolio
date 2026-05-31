@@ -4,7 +4,7 @@ export const projects = [
     title: "FieldNote Experience Bank",
     category: ["Full Stack", "Firebase", "UI/UX"],
     description: "A social platform for field workers to share experiences, built with vanilla JS, Firebase Auth & Firestore. Features real-time posts, likes, and comments.",
-    image: "/project-1.jpg",
+    image: "./project-1.jpg",
     link: "#",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     title: "E-Commerce Dashboard",
     category: ["React", "Node.js", "UI Design"],
     description: "A modern analytics dashboard for an online retail platform with real-time data visualization, order management, and sales tracking.",
-    image: "/project-2.jpg",
+    image: "./project-2.jpg",
     link: "#",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     title: "Task Management App",
     category: ["React", "Tailwind", "Frontend"],
     description: "A productivity application for managing tasks with drag-and-drop functionality, dark mode support, and team collaboration features.",
-    image: "/project-3.jpg",
+    image: "./project-3.jpg",
     link: "#",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     title: "Portfolio Website",
     category: ["React", "Vite", "Animation"],
     description: "A responsive personal portfolio built with React, Vite, and Framer Motion. Features smooth scroll animations and a modern dark theme.",
-    image: "/project-4.jpg",
+    image: "./project-4.jpg",
     link: "#",
   },
   {
@@ -36,7 +36,7 @@ export const projects = [
     title: "API Service Backend",
     category: ["Node.js", "Express", "MongoDB"],
     description: "A RESTful API service built with Node.js and Express, featuring JWT authentication, role-based access control, and comprehensive documentation.",
-    image: "/project-5.jpg",
+    image: "./project-5.jpg",
     link: "#",
   },
   {
@@ -44,7 +44,8 @@ export const projects = [
     title: "Mobile App UI Kit",
     category: ["UI/UX", "Figma", "Design System"],
     description: "A comprehensive mobile application design system with 50+ reusable components, color tokens, and responsive layouts designed in Figma.",
-    image: "/project-6.jpg",
+    image: "./project-6.jpg",
     link: "#",
   },
 ];
+
